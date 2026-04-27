@@ -324,8 +324,6 @@ Before running Quick Optimize or disabling Windows Updates:
 WinForge Pro/
 ├── WinForge Pro.cmd                 # The main tool (all-in-one)
 ├── README.md                        # This documentation
-├── Windows Tweaker.cmd              # Legacy standalone tweaker (v3.2)
-└── Windows Update Manager 4.0.cmd   # Legacy standalone update manager
 ```
 
 > **Note:** The legacy standalone scripts are kept for reference. `WinForge Pro.cmd` contains all their features and more.
